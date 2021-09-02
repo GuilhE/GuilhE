@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Guilherme Delgado
-Software engineer focused on front-end mobile with special care for UX/UI.  
+Software engineer focused on front-end mobile with special care for UX/UI [@blissapps](https://www.blissapplications.com/).  
 Currently playing with [Koltin Multiplatform Mobile](https://kotlinlang.org/docs/multiplatform.html#top).  
 
 When I’m not coding I’m climbing 🧗
