@@ -7,7 +7,9 @@ When I’m not coding I’m climbing 🧗
 ![](https://github-profile-trophy.vercel.app/?username=guilhe&theme=gruvbox)
 
 ### Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" alt="kotlin"   height="30"/> </a> 
+  <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" alt="android" width="40" /> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhe&show_icons=true&locale=en" alt="GuilhE" /></p>
 
