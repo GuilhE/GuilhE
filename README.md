@@ -1,8 +1,10 @@
 # Hi there 👋, I'm Guilherme Delgado
-Software engineer focused on front-end mobile with special care for UX/UI [@blissapps](https://www.blissapplications.com/).  
-Currently playing with [Koltin Multiplatform Mobile](https://kotlinlang.org/docs/multiplatform.html#top).  
-
-When I’m not coding I’m climbing 🧗
+<p align="left"> 
+  <img align="right" src="https://media.giphy.com/media/f6Q1EjYSrpnxwQsX0b/giphy.gif" width="140"/>
+  <p>Software engineer focused on front-end mobile with special care for UX/UI <a href="https://www.blissapplications.com/" target="_blank">@blissapps</a>.
+  <br>Currently playing with <a href="https://kotlinlang.org/docs/multiplatform.html#top" target="_blank">Koltin Multiplatform Mobile</a>.
+  <p>When I’m not coding I’m climbing 🧗</p>
+</p>
 
 ![](https://github-profile-trophy.vercel.app/?username=guilhe&theme=gruvbox)
 
@@ -11,7 +13,9 @@ When I’m not coding I’m climbing 🧗
   <a href="https://kotlinlang.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" alt="kotlin"   height="30"/> </a> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" alt="android" width="40" /> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhe&show_icons=true&locale=en" alt="GuilhE" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhe&show_icons=true&locale=en" alt="GuilhE" />
+</p>
 
 ### Latest publications
 - [Kotlin Multiplatform Mobile — solving network responses with teamwork](https://proandroiddev.com/kotlin-multiplatform-mobile-solving-network-responses-with-teamwork-c342762d9401) 
