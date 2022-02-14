@@ -11,6 +11,7 @@
 </p>
 
 ### Latest publications
+- [Improving UI State management by using a Finite State Machine and MVI architecture](https://proandroiddev.com/managing-the-ui-state-by-using-a-finite-state-machine-and-mvi-architecture-36d84056c616)
 - [Kotlin Multiplatform Mobile — solving network responses with teamwork](https://proandroiddev.com/kotlin-multiplatform-mobile-solving-network-responses-with-teamwork-c342762d9401) 
 - [Kitchen Timer Compose](https://github.com/GuilhE/KitchenTimer)  
 <img src="https://github.com/GuilhE/KitchenTimer/blob/main/media/tomato.gif" width="160">
