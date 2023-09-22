@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhe&theme=dracula&show_icons=true&count_private=true&locale=en" alt="GuilhE" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhe&theme=dracula&show_icons=true&count_private=true&hide_rank=true&locale=en" alt="GuilhE" />
 </p>
 
 ### Latest publications
