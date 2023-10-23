@@ -12,9 +12,9 @@
 
 ### Latest publications
 - [Compose Multiplatform — managing UI State on iOS](https://guidelgado.medium.com/45d37effeda9)
-- [Kotlin Multiplatform Mobile — sharing the UI State management](https://guidelgado.medium.com/a67bd9a49882)
+- [Kotlin Multiplatform — sharing the UI State management](https://guidelgado.medium.com/a67bd9a49882)
+- [Kotlin Multiplatform — solving network responses with teamwork](https://guidelgado.medium.com/c342762d9401)
 - [Improving UI State management by using a Finite State Machine and MVI architecture](https://guidelgado.medium.com/36d84056c616)
-- [Kotlin Multiplatform Mobile — solving network responses with teamwork](https://guidelgado.medium.com/c342762d9401) 
 - [Kitchen Timer Compose](https://github.com/GuilhE/KitchenTimer)  
 <img src="https://github.com/GuilhE/KitchenTimer/blob/main/media/tomato.gif" width="160">
 
