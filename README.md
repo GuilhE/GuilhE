@@ -16,7 +16,7 @@
 - [Kotlin Multiplatform — solving network responses with teamwork](https://guidelgado.medium.com/c342762d9401)
 - [Improving UI State management by using a Finite State Machine and MVI architecture](https://guidelgado.medium.com/36d84056c616)
 - [Kitchen Timer Compose](https://github.com/GuilhE/KitchenTimer)  
-<img src="https://github.com/GuilhE/KitchenTimer/blob/main/media/tomato.gif" width="160">
+<a href="https://github.com/GuilhE/KitchenTimer"><img src="https://github.com/GuilhE/KitchenTimer/blob/main/media/tomato.gif" width="160"></a>
 
 ### Connect with me
 <p align="left">
