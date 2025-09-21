@@ -12,7 +12,7 @@
 
 ### Latest publications
 - [Kotlin Multiplatform — How to improve the iOS development experience](https://guidelgado.medium.com/fa8cb2c1aa92)
-- [What’s Native?](https://guidelgado.medium.com/c8d84ccda667)
+- [What’s Native?](https://guidelgado.medium.com/c8d84ccda667) | [Does it matter to be Native?](https://medium.com/p/f4cc9ae1a394)
 - [Compose Multiplatform — managing UI State on iOS](https://guidelgado.medium.com/45d37effeda9)
 - [Kotlin Multiplatform — sharing the UI State management](https://guidelgado.medium.com/a67bd9a49882)
 - [Kotlin Multiplatform — solving network responses with teamwork](https://guidelgado.medium.com/c342762d9401)
