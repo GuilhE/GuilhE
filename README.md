@@ -2,7 +2,7 @@
 <p align="left"> 
   <img align="right" src="media/kodee.gif" width="140"/>
   <p>Software engineer focused on front-end mobile with special care for UX/UI <a href="https://www.blissapplications.com/" target="_blank">@blissapps</a>.
-  <br>Currently working with <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank">Koltin Multiplatform</a> and <a href="https://www.jetbrains.com/lp/compose-multiplatform/" target="_blank">Compose Multiplatform</a>.
+  <br>Currently working with <a href="https://kotlinlang.org/lp/multiplatform/" target="_blank">Kotlin Multiplatform</a> and <a href="https://www.jetbrains.com/lp/compose-multiplatform/" target="_blank">Compose Multiplatform</a>.
   <p>When I’m not coding I’m 🧗 or 🏄‍♂️</p>
 </p>
 
