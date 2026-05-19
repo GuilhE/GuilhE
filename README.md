@@ -6,10 +6,6 @@
   <p>When I’m not coding I’m 🧗 or 🏄‍♂️</p>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhe&theme=dracula&show_icons=true&count_private=true&hide_rank=true&locale=en" alt="GuilhE" />
-</p>
-
 ### Latest publications
 - [Kotlin Multiplatform — How to improve the iOS development experience](https://guidelgado.medium.com/fa8cb2c1aa92)
 - [What’s Native?](https://guidelgado.medium.com/c8d84ccda667) | [Does it matter to be Native?](https://medium.com/p/f4cc9ae1a394)
